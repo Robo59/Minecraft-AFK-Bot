@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "smp-friends.play.hosting",
+  "serverPort": 25898,
   "botUsername": "MyBot",
   "botChunk": 1
 }
